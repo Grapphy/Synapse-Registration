@@ -6,7 +6,7 @@ Currently it uses a captcha solving service for those homeservers that requires 
 ## Table of contents
 * [Example with no verifications](https://github.com/grapphy/Synapse-Registration#example-with-no-verifications)
 * [Example with Google Recaptcha](https://github.com/grapphy/Synapse-Registration#example-with-google-recaptcha)
-* [Example with Recaptcha and email verification](https://github.com/grapphy/Synapse-Registration#example-with-recaptcha-and-email-verification)
+* [Example with Recaptcha and email verification](https://github.com/grapphy/Synapse-Registration#example-with-recaptcha-and-email-verification-matrixorg)
 * [Using proxies](https://github.com/grapphy/Synapse-Registration#using-proxies)
 * [Requirements](https://github.com/grapphy/Synapse-Registration#requirements)
 * [Credits](https://github.com/grapphy/Synapse-Registration#credits)
